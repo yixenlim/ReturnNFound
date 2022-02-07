@@ -1,0 +1,18 @@
+1. Open Deposit.py
+2. Search file_location
+3. *Change the first path to the path to your desktop
+4. *Change the second path to the path to the local file PSP0201
+5. Save the python file
+6. Make sure you have the picture with the name of the case code in your desktop before clicking "Capture" in deposit module
+7. Run Execute.py
+
+#Picture must be .PNG and is in square shape 
+#Note that the size of the picture might not be correct due to different camera picture size
+
+*(You might need to change the slash from "\" to "/" because python only accept the second slash)
+
+
+To clear data:
+1. Clear data.txt and retrieve_history.txt
+2. Initially, locker.txt must have "1,"
+3. Initially, merit_point.txt is "0,0,0,0,0,0"
